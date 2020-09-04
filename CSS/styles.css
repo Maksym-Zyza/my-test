@@ -1,0 +1,54 @@
+.review {
+  position: relative;
+  text-align: center;
+  width: 150px;
+  background-color: #fafafa;
+  margin: 0;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.wrap {
+  line-height: 2;
+  margin: 0;
+}
+
+.line {
+  position: absolute;
+  display: block;
+  width: 180px;
+  border-bottom: 1px solid #e1e1e1;
+  margin: 0;
+}
+
+.l1 {
+  top: 40px;
+}
+
+.l2 {
+  top: 70px;
+}
+
+.l3 {
+  top: 100px;
+}
+
+.l4 {
+  top: 130px;
+}
+
+.l5 {
+  top: 160px;
+}
+
+.l6 {
+  top: 190px;
+}
+
+.l7 {
+  top: 220px;
+}
+
+.l8 {
+  top: 250px;
+}
